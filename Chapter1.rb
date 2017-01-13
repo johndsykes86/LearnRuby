@@ -13,3 +13,6 @@ puts "There are #{hours_in_year} hours in a year."
 
 minutes_in_decade = 365 * 10 * 24 * 60
 puts "There are #{minutes_in_decade} minutes in a decade."
+
+seconds = 365 * 30.5 * 24 * 60 * 60
+puts "I am appromixately #{seconds} seconds old..."
