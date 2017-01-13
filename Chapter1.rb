@@ -16,3 +16,6 @@ puts "There are #{minutes_in_decade} minutes in a decade."
 
 seconds = 365 * 30.5 * 24 * 60 * 60
 puts "I am appromixately #{seconds} seconds old..."
+
+how_old_am_i = 1246000000/(60*60*24*365)
+puts "I am appromixately #{how_old_am_i} years old"
